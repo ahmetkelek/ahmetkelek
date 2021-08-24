@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Ahmet 👋</h1>
 <h3 align="center">Self taught developer.</h3>
 
-- 🎓 BSc Management Information Systems
+- 🎓 I have a bachelor degree in Management Information Systems - Adnan Menderes University (2020)
 
 - 🌱 I’m currently learning **ReactJS, Javascript**
 
