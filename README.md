@@ -3,8 +3,6 @@
 
 - 🎓 I have a bachelor degree in Management Information Systems - Adnan Menderes University (2020)
 
-- 🌱 I’m currently learning **ReactJS, Javascript**
-
 - 📫 How to reach me **ahmet.kelek10@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
